@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.header{
+    width: 1600px;
+    height: 808px;
+    background-image: url(images/banner/banner3.png);
+}
+.header-details{
+    justify-content: right;
+    margin-right: 230px;
+    position: relative;
+    float: right;
+    margin-top: 216px;
+}
+.header-titles{
+    color: #FFFFFF;
+    margin-left: 845px;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+}
+.header-paragraph{
+    color: #FFFFFF;
+    margin-left: 876px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    text-align: right;
+}
+.btn{
+    width: 160px;
+    height: 64px;
+    margin-left: 1210px;
+    margin-top: 32px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    border-radius: 5px;
+    color: #005FAC;
+    background-color: #FFFFFF;
+}
+main{
+    width: 1600px;
+}
+.failure-previous-year{
+    margin-top: 131px;
+    margin-left: 206px;
+    display: flex;
+    margin-bottom: 130px;
+    
+}
+.images{
+    margin-right: 87px;
+}
+.failures{
+    margin-top: 369px;
+    margin-right: 314px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.failure-name{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+.failure-index{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.list{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.my-plan{
+    width: 1600px;
+}
+.myplan-tiles{
+    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.myplan-skill{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+}
+.myplan-skill img{
+    margin-left: 10px;
+}
+.myplan-skill p{
+    text-align: center;
+}
+.offer{
+    background-image: url(images/gradient1.png);
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+}
+.mindset{
+    padding-top: 59px;
+    margin-left: 65px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.btn-2{
+    width: 160px;
+    height: 64px;
+    margin-top: 24px;
+    margin-left: 65px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 130px;
+}
+footer{
+    width: 1600px;
+    height: 577px;
+    color: #FFFFFF;
+    background-color: #151414;
+    display: flex;
+}
+.future{
+    margin-left: 230px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-right: 331px;
+}
+.subscribe{
+    margin-top: 130px;
+    margin-right: 229px;
+
+}
+.title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.footerdescription{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+}
+.email{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+}
+.phone{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+}
+.icons{
+    margin-top: 32px;
+}
+.sub-title{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 31px;
+}
+input{
+    width: 325px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+}
+.btn-3{
+   
+    width: 170.11px;
+    height: 64px; 
+    background: #005FAC;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
